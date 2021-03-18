@@ -1,6 +1,6 @@
 #myself
 
-DOMAIN,1password.com
+DOMAIN-SUFFIX,1password.com
 DOMAIN-KEYWORD,cordcloud
 DOMAIN-KEYWORD,docker
 
