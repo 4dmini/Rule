@@ -1,22 +1,10 @@
 #myself
 
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,cordcloud
 DOMAIN-KEYWORD,docker
 
-#IP-CIDR,34.80.178.3/24,no-resolve
-DOMAIN-KEYWORD,evernote
-DOMAIN-KEYWORD,yinxiang
-DOMAIN-SUFFIX,evernote.com
-DOMAIN-SUFFIX,yinxiang.com
-DOMAIN-SUFFIX,gcash.com
-DOMAIN-KEYWORD,gcash
-DOMAIN-SUFFIX,cloudflare.com
-
-#signal
-DOMAIN-KEYWORD,signal
-DOMAIN,signal.org 
-DOMAIN,textsecure-service.whispersystems.org
 
 
 
