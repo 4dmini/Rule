@@ -1,6 +1,15 @@
 #直连
 
-DOMAIN-SUFFIX,cian.studio/
+DOMAIN-KEYWORD,ticktick
+DOMAIN-KEYWORD,dida365
+DOMAIN-SUFFIX,xss.pt
+DOMAIN-SUFFIX,edu.cn
+DOMAIN,dns.pub
+DOMAIN,doh.pub
+DOMAIN,dns.alidns.com
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+
 #机场审计
 DOMAIN-KEYWORD,dafahao
 #DOMAIN-KEYWORD,minghui
@@ -20,5 +29,3 @@ DOMAIN-KEYWORD,dafahao
 #DOMAIN-KEYWORD,chacuo
 #DOMAIN-KEYWORD,027168
 DOMAIN-SUFFIX,esu.wiki
-
-DOMAIN-SUFFIX,xss.pt
