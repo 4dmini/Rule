@@ -1,7 +1,4 @@
-#代理
-
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,ccsub.site
-DOMAIN-KEYWORD,cordcloud
+DOMAIN-KEYWORD,ccsub
 DOMAIN-KEYWORD,docker
 DOMAIN-SUFFIX,oracle.com
