@@ -1,6 +1,7 @@
 DOMAIN-KEYWORD,notion
 DOMAIN-KEYWORD,docker
 DOMAIN,chat.gateway.do
+DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,ietf.org
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,oracle.com
