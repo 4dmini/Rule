@@ -1,7 +1,8 @@
 DOMAIN,voice.google.com
 DOMAIN,bard.google.com
 DOMAIN,web.voice.telephony.goog
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,aca.best
-DOMAIN-SUFFIX,kavin.rocks
+DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,imgur.com
 
