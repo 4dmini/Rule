@@ -1,7 +1,5 @@
+PROCESS-NAME,notion.exe
+PROCESS-NAME,notion.id
 DOMAIN,ai.fakeopen.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,ankiweb.net
-DOMAIN-SUFFIX,splunkcloud.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,notion-static.com
