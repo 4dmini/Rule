@@ -26,7 +26,6 @@ sniffer:
     QUIC:
       ports: [443, 8443]
   skip-domain:
-    - "Mijia Cloud"
     - "+.push.apple.com"
 
 dns:
