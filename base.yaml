@@ -28,8 +28,8 @@ sniffer:
       ports: [443, 8443]
     QUIC:
       ports: [443, 8443]
-  skip-domain:
-    - "+.push.apple.com"
+  force-domain:
+    - +.v2ex.com
 
 tun:
   enable: true
