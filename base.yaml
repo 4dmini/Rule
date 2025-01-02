@@ -1,4 +1,7 @@
+mode: rule
 mixed-port: 7777
+socks-port: 7778
+port: 7779
 ipv6: true
 allow-lan: true
 unified-delay: true
