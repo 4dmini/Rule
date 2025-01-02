@@ -49,15 +49,15 @@ dns:
     - "+.lan"
     - "+.local"
   nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
+    - https://223.5.5.5/dns-query
+    - https://1.12.12.12/dns-query
   proxy-server-nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
+    - https://223.5.5.5/dns-query
+    - https://1.12.12.12/dns-query
   nameserver-policy:
     "geosite:cn,private":
-      - 223.5.5.5
-      - 119.29.29.29
+      - https://223.5.5.5/dns-query
+      - https://1.12.12.12/dns-query
     "geosite:geolocation-!cn":
-      - 1.0.0.1
-      - 8.8.4.4
+      - https://1.0.0.1/dns-query
+      - https://dns.google/dns-query
